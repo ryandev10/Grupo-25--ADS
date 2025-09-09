@@ -1,2 +1,12 @@
 # Grupo-25--ADS
-Repositório para entrega do projeto integrador
+<h2>Repositório para entrega do projeto integrador</h2>
+
+<h3>Integrantes</h3>
+<h3>HUGO RIBEIRO RAMADAN</h3>
+<h3>LUIS CARLOS DE AZEVEDO FILHO</h3>
+<h3>RADISSON CALMON DE ALMEIDA GOMES</h3>
+<h3>RAPHAEL ALVES DE ALMEIDA</h3>
+<h3>ROMULO FRAGA DE OLIVEIRA</h3>
+<h3>RYAN DA SILVA</h3>
+<h3>SIMONE CORDEIRO RAMOS</h3>
+<h3>WAGNER SUZANO URIVI</h3>
